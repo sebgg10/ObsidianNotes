@@ -10,6 +10,8 @@ ssh bandit@bandit.labs.overthewire.org -p 2220
 ## Solución
 
 ```
+
+
 ```
 ## Notas adicionales
 ## Referencias
