@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/PrimerParcial/24-plumbing.md",
+                "file": "picoCTF/Retos Web P-2/4. JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/PrimerParcial/24-plumbing.md",
+                "file": "picoCTF/Retos Web P-2/4. JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/PrimerParcial/24-plumbing.md",
+                "file": "picoCTF/Retos Web P-2/4. JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/PrimerParcial/24-plumbing.md"
+                "file": "picoCTF/Retos Web P-2/4. JaWT Scratchpad.md"
               }
             }
           }
@@ -149,7 +149,13 @@
   "active": "91778f773a35bc75",
   "lastOpenFiles": [
     "picoCTF/Plantilla 1.md",
+    "picoCTF/Retos Web P-2/4. JaWT Scratchpad.md",
+    "picoCTF/Retos Web P-2/3. Irish-Name-Repo 3.md",
+    "Pasted image 20240305125008.png",
+    "picoCTF/Retos Web P-2/2. Irish-Name-Repo 2.md",
+    "picoCTF/Retos Web P-2/1. Irish-Name-Repo 1.md",
     "picoCTF/PrimerParcial/24-plumbing.md",
+    "picoCTF/Retos Web P-2",
     "picoCTF/PrimerParcial/23-Based.md",
     "picoCTF/PrimerParcial/22-runme.py.md",
     "picoCTF/PrimerParcial/21-PW Crack 3.md",
@@ -170,10 +176,6 @@
     "picoCTF/PrimerParcial/05-Tab, Tab, Attack.md",
     "retosbandit/Bandit Level 12 → Level 13.md",
     "picoCTF/PrimerParcial/04-Static ain't always noise.md",
-    "picoCTF/PrimerParcial/02-Wave a flag.md",
-    "retosbandit/Bandit Level 21 → Level 22.md",
-    "retosbandit/Bandit Level 16 → Level 17.md",
-    "picoCTF/Retos Web P-1/6. Client-side-again.md",
     "picoCTF/Retos Web P-1",
     "retosbandit/Untitled",
     "picoCTF/PrimerParcial",
