@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Web P-2/4. JaWT Scratchpad.md",
+                "file": "picoCTF/Retos Web P-3/Bonus Reto 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Web P-2/4. JaWT Scratchpad.md",
+                "file": "picoCTF/Retos Web P-3/Bonus Reto 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Web P-2/4. JaWT Scratchpad.md",
+                "file": "picoCTF/Retos Web P-3/Bonus Reto 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Web P-2/4. JaWT Scratchpad.md"
+                "file": "picoCTF/Retos Web P-3/Bonus Reto 1.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "91778f773a35bc75",
   "lastOpenFiles": [
+    "picoCTF/Retos Web P-3/3. Scavenger Hunt.md",
+    "picoCTF/Retos Web P-3/2. Cookies.md",
+    "picoCTF/Retos Web P-3/1. Get aHEAD.md",
+    "picoCTF/Retos Web P-3/Bonus Reto 1.md",
     "picoCTF/Plantilla 1.md",
     "picoCTF/Retos Web P-2/4. JaWT Scratchpad.md",
+    "picoCTF/Retos Web P-3",
+    "picoCTF/PrimerParcial/Retos Web p3",
     "picoCTF/Retos Web P-2/3. Irish-Name-Repo 3.md",
     "Pasted image 20240305125008.png",
     "picoCTF/Retos Web P-2/2. Irish-Name-Repo 2.md",
@@ -172,10 +178,6 @@
     "picoCTF/PrimerParcial/11-Codebook.md",
     "picoCTF/PrimerParcial/10-Bases.md",
     "picoCTF/PrimerParcial/09-2Warm.md",
-    "retosbandit/Bandit Level 11 → Level 12.md",
-    "picoCTF/PrimerParcial/05-Tab, Tab, Attack.md",
-    "retosbandit/Bandit Level 12 → Level 13.md",
-    "picoCTF/PrimerParcial/04-Static ain't always noise.md",
     "picoCTF/Retos Web P-1",
     "retosbandit/Untitled",
     "picoCTF/PrimerParcial",
