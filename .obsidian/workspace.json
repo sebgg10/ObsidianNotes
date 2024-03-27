@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Forensic P-2/5. shark on wire 2.md",
+                "file": "picoCTF/SegundoParcial/Includes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Forensic P-2/5. shark on wire 2.md",
+                "file": "picoCTF/SegundoParcial/Includes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Forensic P-2/5. shark on wire 2.md",
+                "file": "picoCTF/SegundoParcial/Includes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Forensic P-2/5. shark on wire 2.md"
+                "file": "picoCTF/SegundoParcial/Includes.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "8ed499db96e45ba8",
   "lastOpenFiles": [
-    "picoCTF/Retos Forensic P-2/1. m00nwalk.md",
+    "picoCTF/Plantilla 1.md",
+    "picoCTF/SegundoParcial/Includes.md",
     "picoCTF/Retos Forensic P-2/5. shark on wire 2.md",
+    "picoCTF/Retos Forensic P-2/1. m00nwalk.md",
     "picoCTF/Retos Forensic P-2/4. like1000.md",
     "picoCTF/Retos Forensic P-2/2. WhitePages.md",
     "picoCTF/Retos Forensic P-2/3. c0rrupt.md",
@@ -158,7 +160,6 @@
     "picoCTF/Retos Forensic P-3/3. Matryoshka doll.md",
     "picoCTF/Retos Forensic P-3/2. WebNet1.md",
     "picoCTF/Retos Forensic P-3/1. WebNet0.md",
-    "picoCTF/Plantilla 1.md",
     "Untitled.canvas",
     "picoCTF/Retos Forensic P-2",
     "picoCTF/Concurso Mar12-Mar26/interencdec.md",
@@ -179,7 +180,6 @@
     "picoCTF/Retos Forensic P-1/1. Glory of the Garden.md",
     "picoCTF/Retos Web P-3/Bonus Reto 1.md",
     "picoCTF/Retos Forensic P-1",
-    "picoCTF/Retos Web P-3/3. Scavenger Hunt.md",
     "picoCTF/Retos Web P-3",
     "picoCTF/PrimerParcial/Retos Web p3",
     "Pasted image 20240305125008.png",
