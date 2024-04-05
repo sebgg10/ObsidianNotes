@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/SegundoParcial/Includes.md",
+                "file": "picoCTF/SegundoParcial/16. St3g0.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "decode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/SegundoParcial/Includes.md",
+                "file": "picoCTF/SegundoParcial/16. St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/SegundoParcial/Includes.md",
+                "file": "picoCTF/SegundoParcial/16. St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/SegundoParcial/Includes.md"
+                "file": "picoCTF/SegundoParcial/16. St3g0.md"
               }
             }
           }
@@ -146,12 +147,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ed499db96e45ba8",
+  "active": "4a24cde0245907ef",
   "lastOpenFiles": [
     "picoCTF/Plantilla 1.md",
-    "picoCTF/SegundoParcial/Includes.md",
-    "picoCTF/Retos Forensic P-2/5. shark on wire 2.md",
+    "picoCTF/SegundoParcial/16. St3g0.md",
+    "picoCTF/SegundoParcial/15. Redaction gone wrong.md",
+    "picoCTF/SegundoParcial/14. Packets Primer.md",
+    "picoCTF/SegundoParcial/13. Lookey here.md",
+    "picoCTF/SegundoParcial/12. Enhance.md",
+    "picoCTF/SegundoParcial/11. Wireshark doo dooo do doo....md",
+    "picoCTF/SegundoParcial/10. information.md",
     "picoCTF/Retos Forensic P-2/1. m00nwalk.md",
+    "picoCTF/SegundoParcial/9. SQL Direct.md",
+    "picoCTF/SegundoParcial/8. Secrets.md",
+    "picoCTF/SegundoParcial/7. Roboto Sans.md",
+    "picoCTF/SegundoParcial/6. Power Cookie.md",
+    "picoCTF/SegundoParcial/5. Forbidden Paths.md",
+    "picoCTF/SegundoParcial/4. Search source.md",
+    "picoCTF/SegundoParcial/3. Local Authority.md",
+    "picoCTF/SegundoParcial/2. Inspect HTML.md",
+    "picoCTF/SegundoParcial/1. Includes.md",
+    "picoCTF/Retos Forensic P-2/5. shark on wire 2.md",
     "picoCTF/Retos Forensic P-2/4. like1000.md",
     "picoCTF/Retos Forensic P-2/2. WhitePages.md",
     "picoCTF/Retos Forensic P-2/3. c0rrupt.md",
@@ -159,26 +175,11 @@
     "picoCTF/Retos Forensic P-3/4. tunn3l v1s10n.md",
     "picoCTF/Retos Forensic P-3/3. Matryoshka doll.md",
     "picoCTF/Retos Forensic P-3/2. WebNet1.md",
-    "picoCTF/Retos Forensic P-3/1. WebNet0.md",
     "Untitled.canvas",
     "picoCTF/Retos Forensic P-2",
-    "picoCTF/Concurso Mar12-Mar26/interencdec.md",
-    "picoCTF/Concurso Mar12-Mar26/Custom encryption.md",
-    "picoCTF/Concurso Mar12-Mar26/WebDecode.md",
-    "picoCTF/Concurso Mar12-Mar26/Time Machine.md",
-    "picoCTF/Concurso Mar12-Mar26/Commitment Issues.md",
-    "picoCTF/Concurso Mar12-Mar26/Super SSH.md",
-    "picoCTF/Concurso Mar12-Mar26/Bookmarklet.md",
-    "retosbandit/Bandit Level 3 → Level 4.md",
-    "picoCTF/Retos Forensic P-1/3. shark on wire 1.md",
     "picoCTF/Concurso Mar12-Mar26",
     "Pasted image 20240313183644.png",
-    "picoCTF/Retos Forensic P-1/5. What Lies Within.md",
     "Pasted image 20240312125429.png",
-    "picoCTF/Retos Forensic P-1/4. extensions.md",
-    "picoCTF/Retos Forensic P-1/2. So Meta.md",
-    "picoCTF/Retos Forensic P-1/1. Glory of the Garden.md",
-    "picoCTF/Retos Web P-3/Bonus Reto 1.md",
     "picoCTF/Retos Forensic P-1",
     "picoCTF/Retos Web P-3",
     "picoCTF/PrimerParcial/Retos Web p3",
