@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Crypto P-2/3. b00tl3gRSA2.md",
+                "file": "picoCTF/Retos Crypto P-3/5. ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Crypto P-2/3. b00tl3gRSA2.md",
+                "file": "picoCTF/Retos Crypto P-3/5. ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Crypto P-2/3. b00tl3gRSA2.md",
+                "file": "picoCTF/Retos Crypto P-3/5. ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Crypto P-2/3. b00tl3gRSA2.md"
+                "file": "picoCTF/Retos Crypto P-3/5. ReadMyCert.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "8ed499db96e45ba8",
   "lastOpenFiles": [
+    "picoCTF/Retos Crypto P-3/4. Pixelated.md",
+    "picoCTF/Retos Crypto P-3/3. HideToSee.md",
+    "picoCTF/Retos Crypto P-3/2. basic-mod1.md",
+    "picoCTF/Retos Crypto P-3/5. ReadMyCert.md",
+    "picoCTF/Retos Crypto P-3/Untitled",
     "picoCTF/Plantilla 1.md",
+    "picoCTF/Retos Crypto P-3/1. Mind your Ps and Qs.md",
     "picoCTF/Retos Crypto P-2/3. b00tl3gRSA2.md",
+    "picoCTF/Retos Crypto P-3",
     "picoCTF/Retos Crypto P-2/2. miniRSA.md",
     "picoCTF/Retos Crypto P-2/1. rsa-pop-quiz.md",
     "picoCTF/Retos Crypto P-1/7. waves over lambda.md",
@@ -171,11 +178,6 @@
     "picoCTF/SegundoParcial/12. Enhance.md",
     "picoCTF/SegundoParcial/11. Wireshark doo dooo do doo....md",
     "picoCTF/SegundoParcial/10. information.md",
-    "picoCTF/Retos Forensic P-2/1. m00nwalk.md",
-    "picoCTF/SegundoParcial/9. SQL Direct.md",
-    "picoCTF/SegundoParcial/8. Secrets.md",
-    "picoCTF/SegundoParcial/7. Roboto Sans.md",
-    "picoCTF/SegundoParcial/6. Power Cookie.md",
     "Untitled.canvas",
     "picoCTF/Retos Forensic P-2",
     "picoCTF/Concurso Mar12-Mar26",
@@ -185,8 +187,6 @@
     "picoCTF/Retos Web P-3",
     "picoCTF/PrimerParcial/Retos Web p3",
     "Pasted image 20240305125008.png",
-    "picoCTF/Retos Web P-2",
-    "picoCTF/Retos Web P-1",
-    "retosbandit/Untitled"
+    "picoCTF/Retos Web P-2"
   ]
 }
