@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Reversing P-1/5. vault-door-5.md",
+                "file": "picoCTF/Retos Reversing P-2/3. asm3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Reversing P-1/5. vault-door-5.md",
+                "file": "picoCTF/Retos Reversing P-2/3. asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Reversing P-1/5. vault-door-5.md",
+                "file": "picoCTF/Retos Reversing P-2/3. asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Reversing P-1/5. vault-door-5.md"
+                "file": "picoCTF/Retos Reversing P-2/3. asm3.md"
               }
             }
           }
@@ -148,11 +148,15 @@
   },
   "active": "8ed499db96e45ba8",
   "lastOpenFiles": [
+    "picoCTF/Retos Reversing P-2/2. asm2.md",
+    "picoCTF/Retos Reversing P-2/1. asm1.md",
+    "picoCTF/Retos Reversing P-2/3. asm3.md",
+    "picoCTF/Plantilla 1.md",
     "picoCTF/Retos Reversing P-1/4. vault-door-4.md",
+    "picoCTF/Retos Reversing P-2",
     "picoCTF/Retos Reversing P-1/5. vault-door-5.md",
     "picoCTF/Retos Reversing P-1/3. vault-door-3.md",
     "picoCTF/Retos Reversing P-1/2. vault-door-1.md",
-    "picoCTF/Plantilla 1.md",
     "picoCTF/Retos Reversing P-1/1. vault-door-training.md",
     "picoCTF/Retos Crypto P-3/5. ReadMyCert.md",
     "picoCTF/Retos Reversing P-1",
@@ -175,10 +179,7 @@
     "Notas Seguridad/Crypto.md",
     "Notas Seguridad/Seguridad 1.md",
     "picoCTF/Retos Crypto P-1",
-    "picoCTF/SegundoParcial/16. St3g0.md",
     "picoCTF/Retos Crypto P-2",
-    "picoCTF/Untitled.md",
-    "picoCTF/SegundoParcial/15. Redaction gone wrong.md",
     "Untitled.canvas",
     "picoCTF/Retos Forensic P-2",
     "picoCTF/Concurso Mar12-Mar26",
@@ -186,7 +187,6 @@
     "Pasted image 20240312125429.png",
     "picoCTF/Retos Forensic P-1",
     "picoCTF/Retos Web P-3",
-    "picoCTF/PrimerParcial/Retos Web p3",
     "Pasted image 20240305125008.png"
   ]
 }
