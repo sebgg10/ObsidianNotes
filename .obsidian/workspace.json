@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Reversing P-3/4. Need For Speed.md",
+                "file": "picoCTF/TercerParcial/20. SRA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Reversing P-3/4. Need For Speed.md",
+                "file": "picoCTF/TercerParcial/20. SRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Reversing P-3/4. Need For Speed.md",
+                "file": "picoCTF/TercerParcial/20. SRA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Reversing P-3/4. Need For Speed.md"
+                "file": "picoCTF/TercerParcial/20. SRA.md"
               }
             }
           }
@@ -149,36 +149,37 @@
   "active": "8ed499db96e45ba8",
   "lastOpenFiles": [
     "picoCTF/Plantilla 1.md",
+    "picoCTF/TercerParcial/20. SRA.md",
+    "picoCTF/TercerParcial/19. Mr-Worldwide.md",
+    "picoCTF/TercerParcial/18. Flags.md",
+    "picoCTF/TercerParcial/17. C3.md",
+    "picoCTF/TercerParcial/16. Play nice.md",
+    "picoCTF/TercerParcial/15. Vigenere.md",
+    "picoCTF/TercerParcial/14. Substitution1.md",
+    "picoCTF/TercerParcial/13. substitution0.md",
+    "picoCTF/TercerParcial/12. Morse-code.md",
+    "picoCTF/TercerParcial/8. Bit-O-Asm-4.md",
+    "picoCTF/TercerParcial/11. No Padding, No Problem.md",
+    "picoCTF/TercerParcial/7. Bit-O-Asm-3.md",
+    "Notas Seguridad/Crypto.md",
+    "picoCTF/TercerParcial/10. GDB baby step 2.md",
+    "picoCTF/TercerParcial/9. GDB baby step 1.md",
+    "picoCTF/TercerParcial/6. Bit-O-Asm-2.md",
+    "picoCTF/TercerParcial/5. Bit-O-Asm-1.md",
+    "picoCTF/TercerParcial/4. ASCII FTW.md",
+    "picoCTF/TercerParcial/3. keygenme-py.md",
+    "picoCTF/TercerParcial/2. crackme-py.md",
+    "picoCTF/TercerParcial/1. Transformation.md",
     "picoCTF/Retos Reversing P-3/4. Need For Speed.md",
+    "picoCTF/TercerParcial",
     "picoCTF/Retos Reversing P-3/3. reverse_cipher.md",
     "picoCTF/Retos Reversing P-3/2. Safe Opener 2.md",
     "picoCTF/Retos Reversing P-3/1. GDB Test Drive.md",
-    "picoCTF/Retos Reversing P-2/3. asm3.md",
     "picoCTF/Retos Reversing P-3",
-    "picoCTF/Retos Reversing P-2/2. asm2.md",
-    "picoCTF/Retos Reversing P-2/1. asm1.md",
-    "picoCTF/Retos Reversing P-1/4. vault-door-4.md",
     "picoCTF/Retos Reversing P-2",
-    "picoCTF/Retos Reversing P-1/5. vault-door-5.md",
-    "picoCTF/Retos Reversing P-1/3. vault-door-3.md",
-    "picoCTF/Retos Reversing P-1/2. vault-door-1.md",
-    "picoCTF/Retos Reversing P-1/1. vault-door-training.md",
-    "picoCTF/Retos Crypto P-3/5. ReadMyCert.md",
     "picoCTF/Retos Reversing P-1",
-    "picoCTF/Retos Crypto P-3/4. Pixelated.md",
-    "picoCTF/Retos Crypto P-3/3. HideToSee.md",
-    "picoCTF/Retos Crypto P-3/2. basic-mod1.md",
     "picoCTF/Retos Crypto P-3/Untitled",
-    "picoCTF/Retos Crypto P-3/1. Mind your Ps and Qs.md",
-    "picoCTF/Retos Crypto P-2/3. b00tl3gRSA2.md",
     "picoCTF/Retos Crypto P-3",
-    "picoCTF/Retos Crypto P-2/2. miniRSA.md",
-    "picoCTF/Retos Crypto P-2/1. rsa-pop-quiz.md",
-    "picoCTF/Retos Crypto P-1/7. waves over lambda.md",
-    "picoCTF/Retos Crypto P-1/6. Tapping.md",
-    "picoCTF/Retos Crypto P-1/5. la cifra de.md",
-    "picoCTF/Retos Crypto P-1/4. caesar.md",
-    "picoCTF/Retos Crypto P-1/3. 13.md",
     "picoCTF/Retos Crypto P-1",
     "picoCTF/Retos Crypto P-2",
     "Untitled.canvas",
@@ -186,7 +187,6 @@
     "picoCTF/Concurso Mar12-Mar26",
     "Pasted image 20240313183644.png",
     "Pasted image 20240312125429.png",
-    "picoCTF/Retos Forensic P-1",
     "Pasted image 20240305125008.png"
   ]
 }
